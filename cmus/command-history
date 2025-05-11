@@ -1,0 +1,24 @@
+autosave
+w
+colorscheme dracula
+colorscheme zenburn
+colorscheme gruvbox
+colorscheme amazon
+colorscheme spotify
+colorscheme night
+colorscheme s
+colorscheme dark
+colorscheme
+colorschemes
+colorscheme tokyonight
+q
+help
+bind common <key> filter
+help colorscheme
+sort
+save
+add /mnt/3AEC2912D82E9E80/Users/Shiva Prakash/Music/Music/
+add "/mnt/3AEC2912D82E9E80/Users/Shiva Prakash/Music/Music/"
+add "/mnt/3AEC2912D82E9E80/Users/Shiva\ Prakash/Music/Music/"
+add /mnt/3AEC2912D82E9E80/Users/Shiva\ Prakash/Music/Music/
+quit

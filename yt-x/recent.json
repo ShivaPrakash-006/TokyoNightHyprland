@@ -1,0 +1,106 @@
+{
+  "entries": [
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "D1URxVJgHy4",
+      "url": "https://www.youtube.com/watch?v=D1URxVJgHy4",
+      "title": "Die A King - Demon Slayer [AMV]",
+      "description": null,
+      "duration": 154.0,
+      "channel_id": "UCrahwPjnjJOGwzkAR9mYs3w",
+      "channel": "BrainWaveTV",
+      "channel_url": "https://www.youtube.com/channel/UCrahwPjnjJOGwzkAR9mYs3w",
+      "uploader": "BrainWaveTV",
+      "uploader_id": "@brainwavetv",
+      "uploader_url": "https://www.youtube.com/@brainwavetv",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/D1URxVJgHy4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcP_qSkUqsXQSJw8LfDN6F2o_org",
+          "height": 202,
+          "width": 360
+        },
+        {
+          "url": "https://i.ytimg.com/vi/D1URxVJgHy4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfK-loUpHNBynTmOu_PH3K3lV8WQ",
+          "height": 404,
+          "width": 720
+        }
+      ],
+      "timestamp": 1652054400,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 13646122,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "iad1xlKzkDY",
+      "url": "https://www.youtube.com/watch?v=iad1xlKzkDY",
+      "title": "Die A King - Demon Slayer『4K AMV』",
+      "description": null,
+      "duration": 171.0,
+      "channel_id": "UCtH0GRLpfFj9URxxiVvtiRw",
+      "channel": "danyalox ダンヤ",
+      "channel_url": "https://www.youtube.com/channel/UCtH0GRLpfFj9URxxiVvtiRw",
+      "uploader": "danyalox ダンヤ",
+      "uploader_id": "@danyalox2266",
+      "uploader_url": "https://www.youtube.com/@danyalox2266",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/iad1xlKzkDY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQPCF6LG48S7BlaG26entlvTz1Rg",
+          "height": 202,
+          "width": 360
+        },
+        {
+          "url": "https://i.ytimg.com/vi/iad1xlKzkDY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfK8fSKjIiw7oG-qjnJM4CBUfX5g",
+          "height": 404,
+          "width": 720
+        }
+      ],
+      "timestamp": 1683590400,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 7360536,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "GlAmKjsLmMM",
+      "url": "https://www.youtube.com/watch?v=GlAmKjsLmMM",
+      "title": "Die A King - Bleach「AMV」",
+      "description": null,
+      "duration": 171.0,
+      "channel_id": "UCA61dRZwfxD7_gohX35Qjuw",
+      "channel": "Certified G AMV",
+      "channel_url": "https://www.youtube.com/channel/UCA61dRZwfxD7_gohX35Qjuw",
+      "uploader": "Certified G AMV",
+      "uploader_id": "@CertifiedGAMV",
+      "uploader_url": "https://www.youtube.com/@CertifiedGAMV",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/GlAmKjsLmMM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDeWV0AvrHXJX_HPFEEeAyOir2EqQ",
+          "height": 202,
+          "width": 360
+        },
+        {
+          "url": "https://i.ytimg.com/vi/GlAmKjsLmMM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4O_GmbDYp6_L5pwrYNrKu_ksUbA",
+          "height": 404,
+          "width": 720
+        }
+      ],
+      "timestamp": 1715126400,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 733377,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    }
+  ]
+}

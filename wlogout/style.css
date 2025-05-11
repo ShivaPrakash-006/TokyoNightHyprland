@@ -1,0 +1,85 @@
+window {
+    background-image: url("/tmp/shot.png");
+    font-family: firacode nerd font mono, light;
+    font-size: 14pt;
+    letter-spacing: 1px;
+    color: #FFFFFF; /* text */
+}
+
+button {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 20%;
+    background-color: rgba(30, 30, 46, 1);
+    border-style: solid;
+    border-color: #DC11DC;
+    border-top-width: 2px;
+    border-bottom-width: 2px;
+    transition: box-shadow 0.2s ease-in-out, background-color 0.2s ease-in-out;
+}
+
+button:hover {
+    background-color: rgba(30, 30, 46, 1);
+}
+
+button:focus {
+    box-shadow: #FE33FE 0px 0px 50px 30px;
+    background-color: #FFCCFF;
+}
+
+#lock {
+    border-left-width: 2px;
+    border-top-right-radius: 0;
+    border-top-left-radius: 500;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 500;
+    background-image: image(url("/home/shiva/.config/wlogout/lock.png"));
+}
+#lock:focus {
+    background-image: image(url("/home/shiva/.config/wlogout/lock-hover.png"));
+}
+
+#logout {
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    background-image: image(url("/home/shiva/.config/wlogout/logout.png"));
+}
+#logout:focus {
+    background-image: image(url("/home/shiva/.config/wlogout/logout-hover.png"));
+}
+
+#suspend {
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    background-image: image(url("/home/shiva/.config/wlogout/sleep.png"));
+}
+#suspend:focus {
+    background-image: image(url("/home/shiva/.config/wlogout/sleep-hover.png"));
+}
+
+#shutdown {
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    background-image: image(url("/home/shiva/.config/wlogout/power.png"));
+}
+#shutdown:focus {
+    background-image: image(url("/home/shiva/.config/wlogout/power-hover.png"));
+}
+
+#reboot {
+    border-right-width: 2px;
+    border-top-right-radius: 500;
+    border-top-left-radius: 0;
+    border-bottom-right-radius: 500;
+    border-bottom-left-radius: 0;
+    background-image: image(url("/home/shiva/.config/wlogout/restart.png"));
+}
+#reboot:focus {
+    background-image: image(url("/home/shiva/.config/wlogout/restart-hover.png"));
+}
