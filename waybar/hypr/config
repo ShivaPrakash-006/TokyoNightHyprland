@@ -61,7 +61,7 @@
     "format": " {elapsedTime:%M:%S}",
     "format-disconnected": "⚠  Disconnected",
     "format-stopped": " Not Playing",
-    "on-click": "mpc toggle",
+    "on-click": "kitty -e rmpc",
     "state-icons": {
       "playing": "",
       "paused": ""
